@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/design-desk.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Passport size photo of myself";
 
 /**
  * Project list
@@ -31,28 +31,29 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "WORK EXPERIENCE",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Company Name: Euphoria Genx",
+      "Role: Web Developer Internship:,
+      "Achieved experience in backend development and knowledge in J2EE environment and tomcat server",
   },
   {
-    title: "Web Development for Beginners",
+    title: "EDUCATIONS",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Master Of Computer Application",
+      "Sister Nivedita University",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Here is my resume link",
+    url: "https://drive.google.com/file/d/1SI675eolbLwB5-QPE4H6ZX2-wQkZNEKK/view?usp=drivesdk",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "GitHub portfolio site",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created a basic portfolio website using HTML, CSS",
+    url: "https://soumi-mandal.github.io/Soumi_Mandal_Portfolio/",
   },
 ];
 
