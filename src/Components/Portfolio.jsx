@@ -55,6 +55,21 @@ const projectList = [
       "Created a basic portfolio website using HTML, CSS",
     url: "https://soumi-mandal.github.io/Soumi_Mandal_Portfolio/",
   },
+  {
+    title: "PROJECTS",
+    description:
+      "Art website using JSP and Servlet",
+      "frontend: HTML, CSS, Javascript",
+      "Backend: Java",
+      "Database: MySql",
+  },
+  {
+    title: "PROJECTS",
+    description:
+      "Image authentication with signature watermarking [Cryptography]",
+      "language used: C programmimg language:,
+      "Image format: BMP Image",
+  },
 ];
 
 const Portfolio = () => {
