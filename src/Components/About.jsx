@@ -43,9 +43,13 @@ const skillsList = [
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
  */
+const skillsList = [
+  "IT Skills: C/C++, SQL, HTML, CSS, Javascript, Java, Python",
+  "Academics: DSA, DBMS, OS, OOPs, Computer Networking",
+  ];
+
 const detailOrQuote =
-  "IT Skills: C/C++, SQL, HTML, CSS, Javascript, Java, Python";
-  "Academics: DSA, DBMS, OS, OOPs, Computer Networking";
+  "LANGUAGES: English, Hindi, Bengali";
 
 
 const About = () => {
